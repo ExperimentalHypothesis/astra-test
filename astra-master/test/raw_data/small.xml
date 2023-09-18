@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export_full date="2022-03-29 07:01:28" version="20160107">
+<items>
+	<item name="a">
+		<parts>
+			<part categoryId="1" name="Náhradní díly" order="1">
+				<item name="Arrma diferenciál kompletní 37T 1.35M" />
+				<item name="Arrma hřídel posuvná kompozit" />
+			</part>
+		</parts>
+		<parts>
+			<part categoryId="2" name="something" order="1">
+				<item name="xxxxx" />
+			</part>
+		</parts>
+	</item>
+
+	<item name="b"></item>
+
+	<item name="c"></item>
+	</items>
+</export_full>
+
